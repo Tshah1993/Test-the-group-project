@@ -2,13 +2,13 @@
   <caption>The Three Most Popular JavaScript Libraries</caption>
   <thead>
     <tr>
-      <th>Library</th>
+      <th>Library<
       <th>jQuery</th>
       <th>Bootstrap</th>
       <th>Modernizr</th>
     </tr>
   </thead>
-  <tbody>
+ 
     <tr>
       <td>Market Share</td>
       <td>96.1%</td>
@@ -16,7 +16,7 @@
       <td>14.3%</td>
     </tr> 
     <tr>
-      <td>Absolute Usage</td>
+      <td>Absolute Usage
       <td>70.4%</td>
       <td>12.4%</td>
       <td>10.5%</td>
